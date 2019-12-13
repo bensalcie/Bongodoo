@@ -34,7 +34,7 @@ The video above will show you how get started with the game, once installed on y
   1. Home page with menus
   2. Privacy policy for components within the app
   3. About me
-  4. Variouslevels for one to explore
+  4. Various levels for one to explore
   5. Game selection area
  
  
@@ -69,8 +69,8 @@ We look forward towards enhancing young peoples memory boost and more importantl
   <p float="left">
  https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png
   <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225905.png" width="150" /> 
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225924.png" width="150" />
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225924.png" width="150" /> 
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225905.png" width="150" />
 </p>
   
   
