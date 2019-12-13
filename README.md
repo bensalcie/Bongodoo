@@ -1,5 +1,5 @@
 # Bongodoo
-Bongodoo is a memory game that revolutionizes the way young people think, recall events,sessions and people. It tackles aspects of leadership and the impact of leaders  to young poeople towards their success. It covers the wider scope of understanding and visualizing various leadersof impact to them by making them recall leaders, objects and instances around their geographic locations.
+Bongodoo is a memory game that revolutionizes the way young people think, recall events,sessions and people. It tackles aspects of leadership and the impact of leaders  to young poeople towards their success. It covers the wider scope of understanding and visualizing leadership impact to them by making them recall people, objects and instances around their geographic surroundings.
 
 
 
@@ -8,7 +8,7 @@ Bongodoo is a memory game that revolutionizes the way young people think, recall
 # Installation Guidelines.
 This app works on android mobile devices and Android Things Kits.
 To install this app on your phone :
-Locate Agri-Sasa (It is a bundle file from android studio):
+Locate Bongodoo (It is a bundle file from android studio):
 [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab),
 in this repository and download it on your android device, then locate it on your phone and install it.
 
