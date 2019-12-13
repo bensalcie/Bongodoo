@@ -42,7 +42,6 @@ The video above will show you how get started with the game, once installed on y
 
  
  
- ![Bongo Doo](/IEEE MADC 2019 FILES/Sccreenshots/512.png)
 
 
 # Description
@@ -62,28 +61,27 @@ We look forward towards enhancing young peoples memory boost and more importantl
 
 
  
-  ![Sample View](/IEEE MADC 2019 FILES/Sccreenshots/512.png)
   
   
   # Screenshots
   <p float="left">
  https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225924.png" width="150" /> 
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225905.png" width="150" />
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225924.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225905.png" width="150" />
 </p>
   
   
  <p float="left">
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225932.png" width="150" />
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225948.png" width="150" /> 
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-230005.png" width="150" />
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225932.png" width="150" />
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225948.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-230005.png" width="150" />
 </p>
   
 <p float="left">
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-230240.png" width="150" />
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-230250.png" width="150" /> 
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190922-124056.png" width="150" />
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-230240.png" width="150" />
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-230250.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190922-124056.png" width="150" />
 </p>
   
   # Disclaimer
