@@ -10,7 +10,7 @@ This app works on android mobile devices and Android Things Kits.
 To install this app on your phone :
 Locate Bongodoo (It is a bundle file from android studio):
 [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab)
-or [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab),
+or [Bongo Doo](https://drive.google.com/open?id=1BEv35Ey2b0Evsl-wfNJQjFNTDPsO6_rq),
 in this repository and download it on your android device, then locate it on your phone and install it.
 
 
