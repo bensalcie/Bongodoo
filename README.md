@@ -9,7 +9,8 @@ Bongodoo is a memory game that revolutionizes the way young people think, recall
 This app works on android mobile devices and Android Things Kits.
 To install this app on your phone :
 Locate Bongodoo (It is a bundle file from android studio):
-[Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab),
+[Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab)
+or [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab),
 in this repository and download it on your android device, then locate it on your phone and install it.
 
 
