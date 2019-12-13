@@ -1,5 +1,5 @@
 # Bongodoo
-Bongodoo is a memory game that revolutionizes the way young people think, recall events,sessions and people. It tackles aspects of leadership and the impact of these leaders  to young poeople towards their success. It covers the wider scope of understanding and visualizing various leadersof impact to them by making them recall leaders, objects and instances around their geographic locations.
+Bongodoo is a memory game that revolutionizes the way young people think, recall events,sessions and people. It tackles aspects of leadership and the impact of leaders  to young poeople towards their success. It covers the wider scope of understanding and visualizing various leadersof impact to them by making them recall leaders, objects and instances around their geographic locations.
 
 
 
@@ -41,7 +41,7 @@ The video above will show you how get started with the game, once installed on y
 
  
  
- ![Agrisasa](/IEEE MADC 2019 FILES/Sccreenshots/512.png)
+ ![Bongo Doo](/IEEE MADC 2019 FILES/Sccreenshots/512.png)
 
 
 # Description
@@ -53,11 +53,11 @@ Whats my goal here?
 "Memory is a record of your personal experience. It is a record of trial and error, defeat and success. Past failures will warn you against repeating them. "
 -Wilfred Peterson
 
-Our goal here is to enhance the momory of young people in a diverse way, a way to help them see wrong and good. To be able to recall their mentors, leaders,successes and failures. 15% of young people are prone to forgetting more much in this current society. This has ntern led to low levels of perfonces in schools, a scenario where students rely too much on their tutors during and even reasoning. This, for a devoping country means :no future innovations, no future outgoers, no future brighter minds and inventors.Kenya being our area of study, we realized that majority young people dont actually know and recall there leaders, this then gives them a hard experience requesting for resource allocation and funding for their proposals.
+Our goal here is to enhance the memory of young people in a diverse way, a way to help them see wrong and good. To be able to recall their mentors, leaders,successes and failures. 15% of young people are prone to forgetting more much in this current society. This has ntern led to low levels of perfonces in schools, a scenario where students rely too much on their tutors during and even reasoning. This, for a devoping country means :no future innovations, no future outgoers, no future brighter minds and inventors.Kenya being our area of study, we realized that majority young people dont actually know and recall there leaders, this then gives them a hard experience requesting for resource allocation and funding for their proposals.
 
-Bongodoo overcomes this problem by engaging users of the application in a more interactive way, a way that helps these young people to see,evaluate, think and remember. This game gives each individual user a timing from 60 seconds, 120 seconds and 180 seconds depending on the level of difficulty involved.
+Bongodoo overcomes this problem by engaging users of the application in a more interactive way, a way that helps these young people to see,evaluate, think and remember. This game gives each individual user a timing from 60 seconds, 120 seconds and 180 seconds depending on the level of difficulty involved as the user advances on various levels.
 
-This gives more insights on the farmers side, They are able to do farming geared towards users preferences based on gender, times and tastes. This gives a further analysis of what the farmer should cncentrate on more in order to maximize the production value chain. Profits are maximized as customers interact directly with farmers and they can negotiate basing on users preferences. This helps farmers to have more confidence in their sales and will make farming in African countries have more value than as it is at the moment where lots os middle men kill the farming value chain.
+We look forward towards enhancing young peoples memory boost and more importantly be able to impact the nortion of them understanding and learning about leadership and leadership roles by thinking, remembering and solving prolems. 
 
 
  
@@ -68,25 +68,25 @@ This gives more insights on the farmers side, They are able to do farming geared
   <p float="left">
  https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png
   <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" /> 
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225905.png" width="150" /> 
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225924.png" width="150" />
 </p>
   
   
  <p float="left">
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" /> 
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225932.png" width="150" />
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225948.png" width="150" /> 
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-230005.png" width="150" />
 </p>
   
 <p float="left">
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" /> 
-  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-230240.png" width="150" />
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190907-230250.png" width="150" /> 
+  <img src="/IEEEMADC2019/Screenshots/Screenshot_20190922-124056.png" width="150" />
 </p>
   
   # Disclaimer
-  Agrisasa is a product developed by Benard Ngoda. All the photos and libraries used are open source and are subject to change with requirements specifications.
+  Bongo Doo is a product developed by Panthers. All the photos and libraries used are open source and are subject to change with requirements specifications.
   
   
   # License
@@ -115,7 +115,7 @@ SOFTWARE.
 
 ## Contact information
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/bensalcie). 
-If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/bensalcie/Agri-Sasa/issues) to report them.
+If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/bensalcie/Bongodoo/issues) to report them.
 
 
 #### Developer
@@ -123,7 +123,7 @@ If you have found any bugs or want to post a feature request please use the [bug
 * Twitter: [@ibensalcie](https://twitter.com/ibensalcie )
 
 ### Summary
-| [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab) | Team Name: Agri Sasa | Agrisasa is an app that  helps farmers get reach to potential markets or customers using machine learning models in predicting the ever changing market dynamics | [LICENSE](https://github.com/bensalcie/Agri-Sasa/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
+| [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab) | Team Name: Panthers | Bongodoo is a memory game that revolutionizes the way young persons think, recall events,sessions and people. It tackles aspects of leadership and the impact of leaders  to young poeople towards their success | [LICENSE](https://github.com/bensalcie/Bongodoo/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
