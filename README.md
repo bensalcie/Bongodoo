@@ -16,7 +16,7 @@ Agrisasa is an app that  helps farmers  get reach to their potential buyers and 
 This app works on both Android Phones and Android Things kits.
 To install this app on your phone :
 Locate Agri-Sasa:
-[Agri Sasa](https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Agrisasa.apk),
+[Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab),
 in this repository and download it on your android device, then locate it on your phone and install it.
 
 
@@ -139,7 +139,7 @@ If you have found any bugs or want to post a feature request please use the [bug
 * Twitter: [@ibensalcie](https://twitter.com/ibensalcie )
 
 ### Summary
-| [Agri Sasa](https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Agrisasa.apk) | Team Name: Agri Sasa | Agrisasa is an app that  helps farmers get reach to potential markets or customers using machine learning models in predicting the ever changing market dynamics | [LICENSE](https://github.com/bensalcie/Agri-Sasa/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
+| [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab) | Team Name: Agri Sasa | Agrisasa is an app that  helps farmers get reach to potential markets or customers using machine learning models in predicting the ever changing market dynamics | [LICENSE](https://github.com/bensalcie/Agri-Sasa/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
