@@ -1,21 +1,14 @@
 # Bongodoo
-This is an application that helps young people boost their minds by recalling their most prominent leaders
-//https://youtu.be/BXvrEdJ8Gq8
-
-
-
-
-# Agri Sasa
-Agrisasa is an app that  helps farmers  get reach to their potential buyers and markets in an efficient and elaborate way. This is achieved by elimination of middle men in the farmers value chain by deploying machine learning models of the market current trends and suggesting the best parterns of market demands with the changing dynamics of the economy.
+Bongodoo is a memory game that revolutionizes the way young people think, recall events,sessions and people. It tackles aspects of leadership and the impact of these leaders  to young poeople towards their success. It covers the wider scope of understanding and visualizing various leadersof impact to them by making them recall leaders, objects and instances around their geographic locations.
 
 
 
 
 
 # Installation Guidelines.
-This app works on both Android Phones and Android Things kits.
+This app works on android mobile devices and Android Things Kits.
 To install this app on your phone :
-Locate Agri-Sasa:
+Locate Agri-Sasa (It is a bundle file from android studio):
 [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab),
 in this repository and download it on your android device, then locate it on your phone and install it.
 
@@ -27,21 +20,20 @@ To install in on Android things :
  One can create a new account for testing purposes by clicking 'Create Account'
  
  # Promotional Video
- This app gives a direct link of farmers to customers, such that a customer is able to talk directly to a farmer and have the burgaining power with the farmer. Customer needs and changes are then shared with farmers to ensure a better service of the futer of the product or service.
+ This application provides an opportunity to train your brain in the best manner possible by prompting you to identify the resemblace of the people who are close or near you, objects near you and so on.
  
- The video below will show you how a farmer/ customer or any other person who wants to sell or buy a farm item ,will access the app.
+ The video below will show you how get started with the game, once installed on your phone and the various difficulties to help you challenge your mind.
  This includes:
-  1. Farmer Account creation
-  2. Farmer Details updates
-  3. Farmer Product upload
-  4. Customer account creation
-  5. Customer acccess to products
-  6. Analysing this info using machine learning models.
-  7. Analytics of better farmer performance and and customer satisfaction insights.
+  1. Home page with menus
+  2. Privacy policy for components within the app
+  3. About me
+  4. Variouslevels for one to explore
+  5. Game selection area
+ 
   
  
  
-  [![Farmers Side-Video ](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
+  [![Bongo Doo -Demo video ](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/BXvrEdJ8Gq8)
  
  The following video will show you the farmer side of the app.  
  This includes:
