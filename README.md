@@ -65,7 +65,6 @@ We look forward towards enhancing young peoples memory boost and more importantl
   
   # Screenshots
   <p float="left">
- https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png
   <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225844.png" width="150" />
   <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225924.png" width="150" /> 
   <img src="https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/Screenshots/Screenshot_20190907-225905.png" width="150" />
