@@ -121,7 +121,7 @@ If you have found any bugs or want to post a feature request please use the [bug
 * Twitter: [@ibensalcie](https://twitter.com/ibensalcie )
 
 ### Summary
-| [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab) | Team Name: Panthers | Bongodoo is a memory game that revolutionizes the way young persons think, recall events,sessions and people. It tackles aspects of leadership and the impact of leaders  to young poeople towards their success | [LICENSE](https://github.com/bensalcie/Bongodoo/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
+| [Bongo Doo](https://github.com/bensalcie/Bongodoo/blob/master/IEEEMADC2019/app.aab) | Team Name: Panthers | Bongodoo is a memory game that revolutionizes the way young persons think, recall events,sessions and people. It tackles aspects of leadership and the impact of leaders  to young poeople towards their success | [LICENSE](https://github.com/bensalcie/Bongodoo/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie).
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
