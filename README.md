@@ -84,7 +84,7 @@ We look forward towards enhancing young peoples memory boost and more importantl
 </p>
   
   # Disclaimer
-  Bongo Doo is a product developed by Panthers. All the photos and libraries used are open source and are subject to change with requirements specifications.
+  Bongo Doo is a product developed by Panthers. All the photos and libraries used are open source and are subject to change with requirements specifications to whom it way concern.
   
   
   # License
